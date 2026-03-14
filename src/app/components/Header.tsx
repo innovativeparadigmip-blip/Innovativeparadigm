@@ -27,7 +27,7 @@ export function Header() {
     { path: "/student-programs", label: "Student Programs" },
     { path: "/innovation", label: "Innovation" },
     { path: "/placement", label: "Placement" },
-    { path: "/contact", label: "Contact" },
+
   ];
 
   return (
