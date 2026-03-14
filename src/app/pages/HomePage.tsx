@@ -61,7 +61,7 @@ export function HomePage() {
   return (
     <div className="pt-20">
       {/* Hero Section */}
-      <section className="relative min-h-[120vh] flex items-center overflow-hidden bg-gradient-to-br from-[#111111] via-[#1a1a1a] to-[#111111]">
+      <section className="relative min-h-[140vh] flex items-center overflow-hidden bg-gradient-to-br from-[#111111] via-[#1a1a1a] to-[#111111]">
         {/* Background Pattern */}
         <div className="absolute inset-0 opacity-10">
           <div className="absolute inset-0" style={{
